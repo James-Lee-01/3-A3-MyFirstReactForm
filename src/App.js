@@ -13,7 +13,7 @@ function App() {
   const handleEmail = (e) => {setEmail(e.target.value)}
   const handleSubmit = (e) => {
     e.preventDefault()
-    setInfo({name, email, test})
+    setInfo({name, email})
   }
 
 
