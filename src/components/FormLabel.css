@@ -1,0 +1,9 @@
+.form-label {
+  margin-bottom: 8px;
+}
+
+.form-input {
+  margin-bottom: 16px;
+  border: 1px solid black;
+  padding: 8px;
+}
